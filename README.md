@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true" />
-
+<img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api/top-langs/?username=Quinn-Barber&show_icons=true&hide_border=true" />
