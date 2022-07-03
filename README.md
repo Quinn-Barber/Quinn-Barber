@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
+
 <img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true" />
 
-</details>
