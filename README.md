@@ -5,16 +5,12 @@
 ### My name is Quinn and I am currently a student at University of Central Florida
 - Bachelors : Computer Science // Minor : Mathematics // Class of 2024
 - Actively seeking internship, research, and co-op positions
-
 ### Here are some links
 <a href="https://www.linkedin.com/in/quinn-barber/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-
 <a href="https://leetcode.com/WhatAGod/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 </a> 
-
 <a href="https://www.instagram.com/quinn.barber/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
