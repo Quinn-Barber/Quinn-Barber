@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Welcome to My Profile!</h1>
 
 ### My name is Quinn and I am currently a student at University of Central Florida
