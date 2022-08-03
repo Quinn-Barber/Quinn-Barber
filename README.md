@@ -37,7 +37,9 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<!---
 <p align="center">
   <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&&include_all_commits=true&layout=compact&hide=contribs,issues"/ >
   <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api/top-langs/?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&layout=compact"/ >
 </p>
+-->
