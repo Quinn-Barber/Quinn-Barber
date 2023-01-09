@@ -39,8 +39,8 @@
 ### Plan On Learning
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-<!-- <p align="center">
-  <img height = "165px" img align="center" src="https://github-readme-stats-y82m.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&&include_all_commits=true&layout=compact&hide=contribs,issues"/ >
-  <img height = "165px" img align="center" src="https://github-readme-stats-y82m.vercel.app/api/top-langs/?username=Quinn-Barber&langs_count=6&show_icons=true&hide_border=true&theme=great-gatsby&layout=compact"/ >
-</p> -->
+<p align="center">
+  <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&&include_all_commits=true&layout=compact&hide=contribs,issues"/ >
+  <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api/top-langs/?username=Quinn-Barber&langs_count=6&show_icons=true&hide_border=true&theme=great-gatsby&layout=compact"/ >
+</p>
 
