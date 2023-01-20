@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Profile!</h1>
+<h1 align="center">Welcome to My Profile! Check out my pins :)</h1>
 
 ### My name is Quinn and I am currently an Honors Student at University of Central Florida
 - Bachelors : Computer Science // Minor : Mathematics // Class of 2024
