@@ -15,6 +15,7 @@
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.w3schools.com/python/)
 
 ### Tools/IDEs
@@ -35,11 +36,10 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Plan On Learning
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<h1 align="center">GitHub Stats</h1>
+<!-- ### Plan On Learning
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 <p align="center">
-<!--   <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&&include_all_commits=true&layout=compact&hide=contribs,issues"/ > -->
+  <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&&include_all_commits=true&layout=compact&hide=contribs,issues"/ >
   <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api/top-langs/?username=Quinn-Barber&langs_count=6&show_icons=true&hide_border=true&theme=great-gatsby&layout=compact"/ >
 </p>
