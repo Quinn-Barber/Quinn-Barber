@@ -36,10 +36,11 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-<h1 align="center">GitHub Stats</h1>
+<!-- <h1 align="center">GitHub Stats</h1> -->
 <!-- ### Plan On Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
-<p align="center">
+<!-- <p align="center">
   <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api?username=Quinn-Barber&show_icons=true&hide_border=true&theme=great-gatsby&&include_all_commits=true&layout=compact&hide=contribs,issues"/ >
   <img height = "165px" img align="center" src="https://github-readme-stats-quinn-barber.vercel.app/api/top-langs/?username=Quinn-Barber&langs_count=6&show_icons=true&hide_border=true&theme=great-gatsby&layout=compact"/ >
 </p>
+ -->
