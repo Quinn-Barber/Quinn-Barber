@@ -1,15 +1,14 @@
-<h1 align="center">Welcome to My Profile! Check out my pins :)</h1>
+<h1 align="center">welcome to my profile :)</h1>
 
-### My name is Quinn and I am currently an Honors Student at University of Central Florida
+<!-- ### My name is Quinn and I am currently an Honors Student at University of Central Florida
 - Bachelors : Computer Science // Minor : Mathematics // Class of 2024
-- Actively seeking internship, research, and co-op positions
 ### Here are some links
 <a href="https://www.linkedin.com/in/quinn-barber/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://www.instagram.com/quinn.barber/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <!-- <a href="https://leetcode.com/WhatAGod/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 </a>  -->
-### Programming Languages
+<!-- ### Programming Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
@@ -35,7 +34,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) -->
 <!-- <h1 align="center">GitHub Stats</h1> -->
 <!-- ### Plan On Learning
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
